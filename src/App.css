@@ -1,0 +1,47 @@
+.headerContainer {
+  width: 100%;
+  height: auto;
+  background-color: var(--color-white);
+  padding: 20px 0 ;
+  position: relative;
+  z-index: 1000;
+}
+
+.footerContainer{
+  width:100%;
+  padding: 50px 0;
+  background: #F5F3F3;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-light-green);
+  transition: 0.5s;
+}
+
+.ShopLink:hover {
+  background-color: var(--color-light-green);
+  color: var(--color-black);
+  transition: 0.5s;
+}
+
+.slick-dots{
+  display:none !important;
+}
+
+.slick-arrow {
+  margin-top: -200px !important;
+}
+
+
+
+
+
+
+
+
+
+
